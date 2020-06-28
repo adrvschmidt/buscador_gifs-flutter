@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb2a7e9-91bf-427d-b064-f23325504fa4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +47,25 @@
       <option name="presentableId" value="Default" />
       <updated>1593230419813</updated>
     </task>
+    <task id="LOCAL-00001" summary="App Finished">
+      <created>1593350371160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593350371161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="App Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="App Finished" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1075" y="108" key="CommitChangelistDialog2" timestamp="1593350370859">
+      <screen x="-2560" y="-23" width="2560" height="1057" />
+    </state>
+    <state x="-1075" y="108" key="CommitChangelistDialog2/0.23.1440.877/-2560.-23.2560.1057@-2560.-23.2560.1057" timestamp="1593350370858" />
     <state width="1237" height="297" key="GridCell.Tab.0.bottom" timestamp="1593350159214">
       <screen x="-2560" y="-23" width="2560" height="1057" />
     </state>
@@ -73,5 +82,9 @@
       <screen x="-2560" y="-23" width="2560" height="1057" />
     </state>
     <state width="1237" height="297" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-23.2560.1057@-2560.-23.2560.1057" timestamp="1593350159214" />
+    <state x="-1040" y="245" key="Vcs.Push.Dialog.v2" timestamp="1593350381105">
+      <screen x="-2560" y="-23" width="2560" height="1057" />
+    </state>
+    <state x="-1040" y="245" key="Vcs.Push.Dialog.v2/0.23.1440.877/-2560.-23.2560.1057@-2560.-23.2560.1057" timestamp="1593350381105" />
   </component>
 </project>
